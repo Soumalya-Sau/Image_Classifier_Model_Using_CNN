@@ -8,7 +8,7 @@
 
 * CNN Model:
 
-    Three convolutional layers (Conv2D) with ReLU activation.
+    Two convolutional layers (Conv2D) with ReLU activation.
 
     MaxPooling layers to reduce dimensions.
 
