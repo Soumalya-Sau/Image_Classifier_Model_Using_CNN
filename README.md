@@ -22,8 +22,6 @@
 
    Accuracy and loss tracked over multiple epochs.
 
-   Confusion matrix for performance analysis.
-
 * Prediction:
 
    Custom image input supported (upload a handwritten digit).
